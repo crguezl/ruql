@@ -1,0 +1,9 @@
+task :default => :exam
+task :exam do
+  sh "ruql exam.rb Html5 > index.html"
+end
+
+desc "compile example.rb"
+task :example do
+  sh "ruql example.rb Html5 > index.html"
+end
