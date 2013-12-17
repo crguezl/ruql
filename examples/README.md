@@ -58,3 +58,7 @@ ruql options
 
       The JSON renderer currently supports no options
 
+Auto Multiple Choice
+====================
+
+[Auto Multiple Choice](http://home.gna.org/auto-qcm/)
